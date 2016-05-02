@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 USERNAME='root'
 PASSWORD=''
-DBNAME='db_tp_blog_laravel'
+DBNAME='db_blog_laravel'
 HOST='localhost'
 
 USER_USERNAME='PaulB'
