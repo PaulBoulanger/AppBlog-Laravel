@@ -1,0 +1,11 @@
+ul.nav.navbar-nav.Login{float:right;}
+table{width:100%;}
+table th{padding:10px; text-align:center;}
+table td{text-align:center;}
+table td ul{margin:0;padding:0;}
+table td ul li{list-style: none;}
+table td form{margin:0;}
+table td img{padding:5px;}
+div.meta {margin-bottom: 10px;}
+input.btn.btn-success.validation {margin-top: 10px; float: right;}
+p.image{margin-top: 10px;}
